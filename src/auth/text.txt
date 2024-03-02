@@ -1,0 +1,15 @@
+
+#open mysql
+sudo mysql -u root -p
+
+#display database
+show databses;
+
+#select databses
+use database_name;
+
+
+#description about table
+decribe table_name;
+
+
